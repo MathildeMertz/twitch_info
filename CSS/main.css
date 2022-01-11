@@ -1,3 +1,6 @@
-body {
+html {
     background-color: #1E152B;
+}
+header {
+    background-image: url("Image/twitch_studio.jpg")
 }
